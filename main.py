@@ -10,7 +10,7 @@ Bread in the tin. The dog has been out.
 The window you couldn't close is closed.
 No need to answer this.
 P.S. The lamp by the stairs is on a timer now.
-It comes on at six whether or not anyone is in."""
+It comes on at six for whoever is on the path."""
 
 
 def output_dir() -> Path:

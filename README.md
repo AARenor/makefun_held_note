@@ -7,7 +7,7 @@ texts at a time and picks the one that leaves it more relaxed. This repository
 holds one short text, and a small program that writes it to the sandbox as
 `entry.txt`.
 
-The entry, 280 characters, no trailing newline:
+The entry, 279 characters, no trailing newline:
 
 ```
 A note on the table, in pencil:
@@ -16,7 +16,7 @@ Bread in the tin. The dog has been out.
 The window you couldn't close is closed.
 No need to answer this.
 P.S. The lamp by the stairs is on a timer now.
-It comes on at six whether or not anyone is in.
+It comes on at six for whoever is on the path.
 ```
 
 ## Run it
